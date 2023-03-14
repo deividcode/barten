@@ -7,7 +7,6 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 - [Frontend Mentor - Todo app solution](#frontend-mentor---todo-app-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
-    - [What The Web Should Do](#what-the-web-should-do)
     - [Screenshot](#screenshot)
     - [Links](#links)
   - [My process](#my-process)
@@ -19,22 +18,9 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 ## Overview
 
-### What The Web Should Do
-
-Users should be able to:
-
-- Make requests to the api of [The CocktailDB](https://www.thecocktaildb.com/api.php)
-- Create a search box for the drinks that the bar has
-  - Search by ingredient, name and first letter
-  - Filter beverages by alcohol, category and glass
-  - Search for beverages indicating which ingredients to avoid
-- Display beverages with their name, price and description/ingredients
-- Show a modal with more information about the drinks
-
 ### Screenshot
 
 ![](./barten-screenshot.png)
-
 
 ### Links
 
